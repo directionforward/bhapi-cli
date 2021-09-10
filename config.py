@@ -3,5 +3,5 @@ CLIENT_SECRET = 'Y0uRs3cR3t'
 USERNAME = 'YOUR USERNAME'
 PASSWORD = 'YOUR PASSWORD'
 
-AUTH_BASE_URL = 'https://your.authbaseurl.com/oauth/'
-REST_LOGIN_URL = 'https://your.restloginurl.com/rest-services/login'
+AUTH_BASE_URL = 'https://auth.bullhornstaffing.com/oauth/'
+REST_LOGIN_URL = 'https://rest.bullhornstaffing.com/rest-services/login'
