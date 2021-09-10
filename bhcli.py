@@ -34,7 +34,7 @@ class BHCLI():
 			self.logger.log_message(response['data'])
 		elif 'errorMessage' in response:
 			self.logger.log_message_and_quit(response['errorMessage'])
-		
+	
 	def bulkEdit(self):
 		response = {}
 		new_data = {}
