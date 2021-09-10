@@ -2,7 +2,7 @@ import sqlite3
 
 class BHLogger:
 	def __init__(self):
-		self.location = 'log.sqlite';
+		self.location = 'log.sqlite'
 		self.create_database()
 	
 	def connect(self):
