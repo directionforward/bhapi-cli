@@ -4,8 +4,8 @@ Bullhorn API CLI
 Working fork. Added the new header requirements for the Auth session (i.e. faking a browser session which the API now seems to require), standard endpoints for REST and AUTH, and made a couple of corrections to the logger.
 
 Requirements:
-Python 2.7 (or later) installed on local machine
-API user for Bullhorn (username and password)
+Python 2.7 (or later) installed on local machine, 
+API user for Bullhorn (username and password), 
 Client ID and Client Secret (issued by Bullhorn Support)
 
 Steps:
